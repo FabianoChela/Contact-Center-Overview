@@ -9,3 +9,7 @@ Cleaning and analysis of the data was done using SQL.
 Finally, a visualization of the data was created using Tableau. 
 The tutorial/article for this project was offered by Armonia from medium.com.
 
+The link to the Tableau visualization is; 
+https://public.tableau.com/app/profile/fabiano.chela/viz/ContactCenterOverview/ContactCenterOverview?publish=yes
+
+
